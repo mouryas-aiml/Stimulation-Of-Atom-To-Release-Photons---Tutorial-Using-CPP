@@ -467,7 +467,7 @@ void projectwork3()
 }
 
 
-    void closing()ss
+    void closing();
  {
     setbkcolor(GREEN);
     setcolor(YELLOW);
